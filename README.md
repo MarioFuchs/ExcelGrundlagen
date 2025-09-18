@@ -4,7 +4,9 @@
 
 ### Grundlagen
 
+[Was ist Excel](https://github.com/MarioFuchs/ExcelGrundlagen/blob/main/Der%20Excel-Startbildschirm.md)
 [Excel Startbildschirm](https://github.com/MarioFuchs/ExcelGrundlagen/blob/main/Der%20Excel-Startbildschirm.md)
+[Der Excel Bildschirm](https://github.com/MarioFuchs/ExcelGrundlagen/blob/main/Der%20Excel-Startbildschirm.md)
 
 ### Weitere Inhalte (Platzhalter)
 
