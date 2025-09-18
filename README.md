@@ -4,7 +4,7 @@
 
 ### Grundlagen
 
-Link zur Einführung: [Excel Startbildschirm](https://github.com/MarioFuchs/ExcelGrundlagen/blob/main/Der%20Excel-Startbildschirm.md)
+[Excel Startbildschirm](https://github.com/MarioFuchs/ExcelGrundlagen/blob/main/Der%20Excel-Startbildschirm.md)
 
 ### Weitere Inhalte (Platzhalter)
 
@@ -15,4 +15,4 @@ Link zur Einführung: [Excel Startbildschirm](https://github.com/MarioFuchs/Exce
 
 ---
 
-© 2025 Mario Fuchs – Alle Rechte vorbehalten.
+© 2025 EGOS! The Education Company – Alle Rechte vorbehalten.
