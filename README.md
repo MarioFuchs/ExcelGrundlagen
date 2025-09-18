@@ -1,4 +1,4 @@
 # Excel Grundlagen
 ## Seminarunterlage
 ### Grundlagen
-[Excel Startbildschirm](Der Excel-Startbildschirm.md)
+Link to [Excel Startbildschirm](Der Excel-Startbildschirm.md)
